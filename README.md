@@ -37,11 +37,17 @@ SmartSpend is a high-fidelity,  personal finance dashboard built using pure HTML
 
 📂 Project Structure
 
+
 Smart-Spend/
+
 ├── index.html       # Structural layout and modal elements
+
 ├── style.css        # Responsive layouts, gradients, & theme tokens
+
 ├── script.js        # Core CRUD, Chart.js logic, & file operations
+
 └── README.md        # Project documentation
+
 
 
 👨‍💻 Developed By
