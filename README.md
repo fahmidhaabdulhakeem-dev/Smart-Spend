@@ -44,6 +44,6 @@ Smart-Spend/
 ├── script.js        # Core CRUD, Chart.js logic, & file operations
 └── README.md        # Project documentation
 
-AUTHOR
 
-FAHMIDHA ABDUL HAKEEM
+ `### DEVELOPED BY :FAHMIDHA ABDUL HAKEEM
+`
